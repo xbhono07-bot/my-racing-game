@@ -1,0 +1,2 @@
+-keep class com.example.myracing.MainActivity { *; }
+-keep class com.example.myracing.GameView { *; }
